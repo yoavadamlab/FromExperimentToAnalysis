@@ -1,5 +1,7 @@
 # From Experiment to Analysis
 An end to end Neuroimaging pipeline for video motion correction, trace extraction, spike detection (all adapted from [Volpy](https://github.com/flatironinstitute/CaImAn/tree/52ab5fbfbbcda12a3cacfd319216be5373e6398e/caiman/source_extraction/volpy) with some modifications), followed by data curation and visualization.
+
+
 <img src= "https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/10b3a580-754d-4e41-913b-c1439159b1d2" width="500">
 
 ### 1. Run pipeline on your cluster and monitor its progress
