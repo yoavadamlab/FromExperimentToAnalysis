@@ -30,7 +30,7 @@ Explore your data in first glance with automated plots.
 ## Getting started 
 
 ```
-git clone
+git clone https://github.com/yoavadamlab/FromExperimentToAnalysis.git
 ```
 in `utils\file_paths` change paths to your local directories
 for more detailed documentation see docs (link)
