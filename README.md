@@ -1,14 +1,12 @@
 # From Experiment to Analysis
 An end to end Neuroimaging pipeline for video motion correction, trace extraction, spike detection (all adapted from [Volpy](https://github.com/flatironinstitute/CaImAn/tree/52ab5fbfbbcda12a3cacfd319216be5373e6398e/caiman/source_extraction/volpy) with some modifications), followed by data curation and visualization.
-
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/137a5043-5734-45e0-9742-f3a30544c6bb" width="500">
+<img src= "https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/10b3a580-754d-4e41-913b-c1439159b1d2" width="500">
 
 ### 1. Run pipeline on your cluster and monitor its progress
 
 By a simple API you can add pipeline steps and configure your cluster preferences.  
-
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/092c7a5b-62e4-4d2e-b6f9-56bb569a2de6" width="300">
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/5956317a-a271-4ef7-9f7d-2d22999a9b60" width="300">
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/211a1014-f5a9-4862-84d3-6f5d45faabef" width="500">
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/dc80240d-3721-4e6a-b10f-b013c2834024" width="500">
 
 ### 2. Validate pipeline steps
 Explore the resulting output from the pipeline for validation of hyper-parameters choice.
@@ -16,19 +14,18 @@ Explore the resulting output from the pipeline for validation of hyper-parameter
 ### 3. Spike Detection refinement
 Fine tune the detection method and threshold according to the SNR of different trace segments.
 
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/054a73e8-79d6-439a-a806-1e755cc50a28" width="300">
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/feacc106-3f00-4aa9-90a3-e9782c18707c" width="500">
 
 ### 4. Imaging DB
 All your data in one place for managing and exploration.
 
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/d46409ad-ad2d-4e9c-8b6d-a3770588bc12" width="300">
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/77c64b17-9452-4508-b99c-46bc7db96a0e" width="500">
 
 ### 5. Data visualization
 Explore your data in first glance with automated plots.
 
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/56c5f634-9bb8-4e5a-93f0-946c34397237" width="300">
-<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/5c421ca2-6583-4984-bd33-a14515eeee4a" width="300">
-
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/f3831d28-31b1-4ba8-946c-b4733225b11f" width="500">
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/dfb1c50a-a09d-4c2d-a747-dcd67c5df36b" width="500">
 
 ## Getting started 
 
