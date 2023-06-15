@@ -13,6 +13,8 @@ By a simple API you can add pipeline steps and configure your cluster preference
 ### 2. Validate pipeline steps
 Explore the resulting output from the pipeline for validation of hyper-parameters choice.
 
+<img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/d2445668-a2b7-4dc1-89c0-e83bc89f3210" width="500">
+
 ### 3. Spike Detection refinement
 Fine tune the detection method and threshold according to the SNR of different trace segments.
 
@@ -27,6 +29,7 @@ All your data in one place for managing and exploration.
 Explore your data in first glance with automated plots.
 
 <img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/f3831d28-31b1-4ba8-946c-b4733225b11f" width="500">
+
 <img src="https://github.com/yoavadamlab/FromExperimentToAnalysis/assets/98536980/dfb1c50a-a09d-4c2d-a747-dcd67c5df36b" width="500">
 
 ## Getting started 
