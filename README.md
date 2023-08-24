@@ -43,6 +43,8 @@ Now create conda environment and run a streamlit app:
 ```
 conda env create -f environment.yml
 conda activate voltage_imaging_pipeline
+pip install streamlit 
+pip install streamlit-aggrid
 streamlit run source\gui.py
 ```
 
