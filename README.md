@@ -48,4 +48,6 @@ pip install streamlit-aggrid
 streamlit run source\gui.py
 ```
 
+The user also has to install the caiman package (https://github.com/flatironinstitute/CaImAn) within the pipeline environment. 
 For detailed code structere and how to modify the code for your lab needs, open the `docs/code_scheme.excalidraw` file  in https://excalidraw.com.
+
