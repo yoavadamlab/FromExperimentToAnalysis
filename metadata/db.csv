@@ -1,0 +1,479 @@
+2024-02-28,RCK10,X,17,"[3, 4, 5]",Pyr,CKII,FOV1,502,True,FALSE,"C3 PF. 4-5 FS, a bit marg?",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV1/behav
+2024-02-28,RCK10,R1,27,"[3, 4, 5, 6]",Pyr,CKII,FOV17,502,True,FALSE,C3 marg. C4 VG signal,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV17/behav_001
+2024-02-28,RCK10,R1,31,"[3, 5, 7]",Pyr,CKII,FOV21,502,True,FALSE,C3 nice PF with remap. LEs in all,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV21/behav_001
+2024-02-28,RCK10,X,21,"[1, 3, 4]",Pyr,CKII,FOV3,502,True,FALSE,G. PFs with remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV3/behav
+2024-02-28,RCK10,R1,23,"[4, 6]",Pyr,CKII,FOV2,502,True,FALSE,C6 nice remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV2/Remap
+2024-02-28,RCK10,X,16,"[2, 4, 5, 6, 7]",Pyr,CKII,FOV2,502,True,FALSE,"C2 marg, make sure im happy with it. C4 also not the best but responds to remapping! C7 PF with remap",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV2/Remap
+2024-02-28,RCK10,R1,22,"[3, 5, 6, 8]",Pyr,CKII,FOV1,502,True,FALSE,"VG. C3&8 PF with  remap (1st) . C5 marg, C6 very sparse",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV1/Remap
+2024-02-28,RCK10,X,20,"[3, 5]",Pyr,CKII,FOV4,502,True,FALSE,"SD was quite hard  because both have super fast bursts, can barely tell between spikes",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV4/behav_001
+2024-02-28,RCK10,R1,29,[3],Pyr,CKII,FOV19,502,True,FALSE,C6 ugly depolarizations,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV19/behav_001
+2024-02-28,RCK10,R1,28,"[2, 3]",Pyr,CKII,FOV18,502,True,FALSE,C1 has signal but its too ugly. C3 also a bit marg in 2nd half,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV18/behav
+2024-02-28,RCK10,X,18,"[2, 3]",Pyr,CKII,FOV5,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV5/behav
+2024-02-28,RCK10,R1,26,"[2, 3, 6]",Pyr,CKII,FOV16,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV16/behav
+2024-02-28,RCK10,R1,25,"[1, 3, 5, 7]",Pyr,CKII,FOV15,502,True,FALSE,C1 long depolarizations in CS. C3 a bit marg. C5&7 some remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV15/behav_001
+2024-02-28,RCK10,R1,24,"[1, 4]",Pyr,CKII,FOV14,502,True,FALSE,C5 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-28-RCK10_R1-S2/FOV14/behav
+2024-02-28,RCK10,X,25,[1],Pyr,CKII,FOV14,502,True,FALSE,"VG. amazing signal. Pyr with amazing speed tuning! however, mouse didn't drink during last minute",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV14/behav
+2024-02-28,RCK10,X,24,"[1, 2]",Pyr,CKII,FOV13,502,True,FALSE,VG. super clean signal,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV13/behav_001
+2024-02-28,RCK10,X,23,[1],Pyr,CKII,FOV12,502,True,FALSE,PF in both,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV12/behav
+2024-02-28,RCK10,X,22,[3],Pyr,CKII,FOV11,502,True,FALSE,C1 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-28-RCK10_X-S2/FOV11/behav_001
+2024-02-15,RCK10,X,12,"[1, 2]",Pyr,CKII,FOV10,502,False,FALSE,"Very correlated!!! both had short ISIs on bursts, so i had to use Volpy for spike detection",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-15-RCK10_X-S1/FOV10/behav_001
+2024-02-15,RCK10,R1,17,[2],Pyr,CKII,FOV13,502,False,FALSE,C3 wide ugly bursts,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV13/behav_002
+2024-02-15,RCK10,R1,16,[5],Pyr,CKII,FOV12,502,False,FALSE,C6 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV12/behav
+2024-02-15,RCK10,R1,15,[1],Pyr,CKII,FOV11,502,False,FALSE,C6 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV11/behav_001
+2024-02-15,RCK10,R1,5,"[4, 5]",Pyr,CKII,FOV2,502,False,FALSE,marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV2/behav
+2024-02-15,RCK10,X,4,"[4, 6]",Pyr,CKII,FOV2,502,False,FALSE,C1 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-15-RCK10_X-S1/FOV2/behav_001
+2024-02-15,RCK10,R1,14,"[3, 6, 7]",Pyr,CKII,FOV10,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV10/behav
+2024-02-15,RCK10,R1,6,"[2, 3, 6, 7, 4]",Pyr,CKII,FOV3,502,False,FALSE,"VG. C2&7 are interesting. C2 only active when mouse is doing well!!!  C6 FS. C4 has wierdly shaped bursts (spikes are kinda small, but detection with Volpy seems ok)",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV3/behav_001
+2024-02-15,RCK10,R1,8,"[2, 4, 6]",Pyr,CKII,FOV4,502,False,FALSE,"VG. C6 is very interesting - has LE while mouse is standing. C5 marge. C7 has LE together with C6, but was too marginal to upload (are they close to each other?)",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV4/behav
+2024-02-15,RCK10,R1,9,"[5, 7]",Pyr,CKII,FOV5,502,False,FALSE,marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV5/behav_001
+2024-02-15,RCK10,X,7,"[2, 3, 4]",Pyr,CKII,FOV5,502,False,FALSE,not the best signal and spike detection... C3&4 some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-15-RCK10_X-S1/FOV5/behav
+2024-02-15,RCK10,X,3,"[2, 3]",Pyr,CKII,FOV1,502,False,FALSE,"C2 amazing signal, 2&3 FS Pyrs. C4 marg",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/X/2024-02-15-RCK10_X-S1/FOV1/behav
+2024-02-15,RCK10,R1,3,"[1, 2, 3, 4, 5, 8]",Pyr,CKII,FOV1,502,False,FALSE,"VG. few PFs. C5 fires only few spikes, C8 is marginal",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV1/behav
+2024-02-15,RCK10,R1,10,[1],Pyr,CKII,FOV6,502,False,FALSE,"C2-3-6 has  large and fast bursts, too much for SD",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV6/behav
+2024-02-15,RCK10,R1,11,"[4, 5, 7]",Pyr,CKII,FOV7,502,False,FALSE,"C4,7 weirdly shaped bursts. used volpy",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV7/behav_001
+2024-02-15,RCK10,R1,13,"[3, 5, 6, 9]",Pyr,CKII,FOV9,502,False,FALSE,C1 ugly complex spikes. c5 also only complex. c9 a bit marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV9/behav_001
+2024-02-15,RCK10,R1,12,"[6, 7]",Pyr,CKII,FOV8,502,False,FALSE,C7 PF that gets worse with trail,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK10/R1/2024-02-15-RCK10_R1-S1/FOV8/behav
+2024-01-02,CRK8,X,33,"[1, 2, 3]",Pyr,CKII,FOV12,502,True,FALSE,C1-2-3 FS. C4 had weird bursts,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV12/behav_001
+2024-01-02,CRK8,R1,22,[4],Pyr,CKII,FOV10,502,True,FALSE,change in tuning!,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV10/behav
+2024-01-02,CRK8,X,36,[2],Pyr,CKII,FOV10,502,True,FALSE,C3 marg. C2 some tuning in both,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV10/behav
+2024-01-02,CRK8,R1,23,[4],Pyr,CKII,FOV11,502,True,FALSE,"C4 LE, C5 marg. bad merge, ran again",Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV11/behav_001
+2024-01-02,CRK8,R1,25,[3],Pyr,CKII,FOV9,502,True,FALSE,stronger tuning in Nov,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV9/behav
+2024-01-02,CRK8,X,24,"[1, 2, 5]",Pyr,CKII,FOV2,502,True,FALSE,"C1 marg, C6 marg. nice remapping.",Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV2/behav
+2024-01-02,CRK8,R1,21,[2],Pyr,CKII,FOV7,502,True,FALSE,C1 marg. C2 also marg but looks like PF that lost tuning,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV7/behav
+2024-01-02,CRK8,R1,24,"[5, 6]",Pyr,CKII,FOV13,502,True,FALSE,a bit marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV13/behav
+2024-01-02,CRK8,R1,19,"[1, 3, 4]",Pyr,CKII,FOV2,502,True,FALSE,C3 has change in PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV2/behav
+2024-01-02,CRK8,X,39,"[1, 2]",Pyr,CKII,FOV14,502,True,FALSE,C1 FS with some change in tuning. C3 also FS but too marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV14/behav
+2024-01-02,CRK8,X,25,"[2, 3, 4, 5]",Pyr,CKII,FOV5,502,True,FALSE,G. good signal. 1st part has alot of immobillity,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV5/behav
+2024-01-02,CRK8,X,29,[2],Pyr,CKII,FOV4,502,True,FALSE,C2 FS. C5 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV4/behav
+2024-01-02,CRK8,X,27,"[2, 7]",Pyr,CKII,FOV3,502,True,FALSE,VG.C2 FS. C7 has PF in N,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV3/behav
+2024-01-02,CRK8,X,31,"[2, 5]",Pyr,CKII,FOV13,502,True,FALSE,G.C2 LE. C5 a bit marginal towards end,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV13/behav
+2024-01-02,CRK8,R1,17,"[2, 4]",Pyr,CKII,FOV3,502,True,FALSE,marginal signal,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2024-02-01-CR8_R1-S2/FOV3/behav_000
+2024-01-02,CRK8,X,21,"[1, 2, 6]",Pyr,CKII,FOV1,502,True,FALSE,VG. C2 LE. C6 tuned F,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2024-02-01-CR8_X-S2/FOV1/behav
+2023-12-21,CRK8,X,14,"[1, 3]",Pyr,CKII,FOV9,502,False,FALSE,C2&4 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV9/behav_001
+2023-12-21,CRK8,X,15,[3],Pyr,CKII,FOV10,502,False,FALSE,a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV10/behav
+2023-12-21,CRK8,X,7,[6],Pyr,CKII,FOV3,502,False,FALSE,C6 super bursty,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV3/behav_001
+2023-12-21,CRK8,R1,5,"[1, 2, 3, 5]",Pyr,CKII,FOV3,502,False,FALSE,C5 a bit marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV3/behav
+2023-12-21,CRK8,R1,11,"[1, 3]",Pyr,CKII,FOV9,502,False,FALSE,good signal. cells seem very correlated in their activity,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV9/behav
+2023-12-21,CRK8,X,8,"[1, 2]",Pyr,CKII,FOV4,502,False,FALSE,C1 PF. Les,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV4/behav
+2023-12-21,CRK8,R1,6,"[2, 3, 4]",Pyr,CKII,FOV4,502,False,FALSE,C2&3 SD is marg. C3 some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV4/behav
+2023-12-21,CRK8,R1,4,"[1, 4]",Pyr,CKII,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV2/behav_001
+2023-12-21,CRK8,X,4,"[1, 2, 3, 6]",Pyr,CKII,FOV1,502,False,FALSE,"C2 LEs, C6 PF",Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV1/behav_001
+2023-12-21,CRK8,X,9,"[2, 3, 4, 5]",Pyr,CKII,FOV5,502,False,FALSE,C3 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV5/behav_001
+2023-12-21,CRK8,X,16,[3],Pyr,CKII,FOV11,502,False,FALSE,a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV11/behav_001
+2023-12-21,CRK8,R1,13,[4],Pyr,CKII,FOV11,502,False,FALSE,LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV11/behav
+2023-12-21,CRK8,R1,9,"[1, 2]",Pyr,CKII,FOV7,502,False,FALSE,"C1&2 fires sparsely,  LEs.",Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV7/behav
+2023-12-21,CRK8,X,6,"[2, 3, 4, 5]",Pyr,CKII,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/X/2023-12-21-CRK8-X-S1/FOV2/behav
+2023-12-21,CRK8,R1,12,"[1, 3]",Pyr,CKII,FOV10,502,False,FALSE,"C3 amazing signal, LE",Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV10/behav_001
+2023-12-21,CRK8,R1,3,"[2, 3, 6]",Pyr,CKII,FOV1,502,False,False.1,VG. C6 fires so sparsely! has only 1 LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV1/behav
+2023-12-21,CRK8,R1,10,[4],Pyr,CKII,FOV8,502,False,FALSE,C4 a bit marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/CRK8/R1/2023-12-21-CRK8-R1-S1/FOV8/behav_001
+2023-12-19,SRK7,R1,14,"[4, 5]",IN,SST,FOV3,502,True,FALSE,some effect in remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-19-SRK7_R1-S2/FOV3/behav_001
+2023-12-19,SRK7,R1,13,"[1, 2]",IN,SST,FOV2,502,True,FALSE,"signal is quiet marginal, but this is 1st remapping so i wanted to see what it looks like even so. consider deleting",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-19-SRK7_R1-S2/FOV2/behav
+2023-12-19,SRK7,X,20,"[1, 2]",IN,SST,FOV2,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-19-SRK7_X-S2/FOV2/behav
+2023-12-19,SRK7,X,22,"[1, 4]",IN,SST,FOV5,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-19-SRK7_X-S2/FOV5/behav
+2023-12-19,SRK7,R1,16,"[1, 2]",IN,SST,FOV5,502,True,FALSE,Both cells reduce in RZ in both envs. for C1 tuning is somewhat partial,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-19-SRK7_R1-S2/FOV5/behav
+2023-12-19,SRK7,R1,21,[1],IN,SST,FOV11,502,True,FALSE,VG. speed tuned in both envs,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-19-SRK7_R1-S2/FOV11/behav
+2023-12-19,SRK7,R1,19,[1],IN,SST,FOV9,502,True,FALSE,"VG. amazing signal, speed tuning that is lost? or the behavior simply changes",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-19-SRK7_R1-S2/FOV9/behav_001
+2023-12-19,SRK7,X,21,[3],IN,SST,FOV3,502,True,FALSE,C4 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-19-SRK7_X-S2/FOV3/behav
+2023-12-19,SRK7,R1,18,[1],IN,SST,FOV8,502,True,FALSE,"C3 marg, C1 partial PF",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-19-SRK7_R1-S2/FOV8/behav
+2023-12-19,SRK7,X,19,"[1, 2, 3]",IN,SST,FOV1,502,True,FALSE,C1&2 a bit marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-19-SRK7_X-S2/FOV1/behav
+2023-12-05,SRK7,X,11,"[1, 2, 4, 6]",IN,SST,FOV9,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV9/behav
+2023-12-05,SRK7,X,6,"[1, 4, 5]",IN,SST,FOV4,502,False,FALSE,C4-5 a bit marginal. all are weakly speed tuned,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV4/behav_001
+2023-12-05,SRK7,R1,10,"[1, 3]",IN,SST,FOV8,502,False,FALSE,Alot of Motion noise,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV8/behav_001
+2023-12-05,SRK7,X,8,"[1, 3, 4]",IN,SST,FOV6,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV6/behav_001
+2023-12-05,SRK7,R1,6,"[1, 2]",IN,SST,FOV4,502,False,FALSE,C2 oscillatory with sparse firing,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV4/behav_001
+2023-12-05,SRK7,R1,7,"[2, 3]",IN,SST,FOV5,502,False,FALSE,None,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV5/behav
+2023-12-05,SRK7,X,3,"[2, 3]",IN,SST,FOV1,502,False,FALSE,"C2 has very strong oscillations, and quite sparse firing",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV1/behav
+2023-12-05,SRK7,X,5,"[1, 3, 4]",IN,SST,FOV3,502,False,FALSE,some speed tuning,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV3/behav
+2023-12-05,SRK7,R1,5,"[1, 4, 5]",IN,SST,FOV3,502,False,False.1,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV3/behav
+2023-12-05,SRK7,R1,3,"[1, 2, 4]",IN,SST,FOV1,502,False,FALSE,marginal?,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV1/behav
+2023-12-05,SRK7,X,9,"[1, 3, 5]",IN,SST,FOV7,502,False,FALSE,C1 has very interesting sparse firing but marginal signal. resembles C2 in FOV1. C3 as well,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV7/behav
+2023-12-05,SRK7,R1,9,[2],IN,SST,FOV7,502,False,FALSE,None,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV7/behav
+2023-12-05,SRK7,X,10,"[1, 2, 3]",IN,SST,FOV8,502,False,FALSE,C3 very strong oscillations,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV8/behav_001
+2023-12-05,SRK7,R1,4,"[1, 4]",IN,SST,FOV2,502,False,FALSE,None,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK7/R1/2023-12-05-SRK7_R1_S1/FOV2/behav_001
+2023-12-05,SRK7,X,4,"[1, 2]",IN,SST,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV2/behav_001
+2023-12-05,SRK7,X,7,"[1, 4]",IN,SST,FOV5,502,False,FALSE,C4 speed tuned,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK7/X/2023-12-05-SRK7_X-S1/FOV5/behav
+2023-09-13,WRK2,R1,20,"[4, 5, 10]",Pyr,Wild Type,FOV3,502,False,FALSE,"C2,7,8 aremarginal - not here. C5 also a bit",Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-09-13-WRK2_R1-S2/FOV3/Behav
+2023-09-13,WRK3,X,26,[5],Pyr,Wild Type,FOV8,502,False,FALSE,marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-09-13-WRK3_X-S2/FOV8/behav
+2023-09-13,WRK2,R1,19,"[1, 5, 6, 7]",Pyr,Wild Type,FOV2,502,False,FALSE,"C5 is a bit marge, C6 has interesting longi",Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-09-13-WRK2_R1-S2/FOV2/Behav
+2023-09-13,WRK3,X,19,[3],Pyr,Wild Type,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-09-13-WRK3_X-S2/FOV2/behav
+2023-09-13,WRK2,R1,18,"[2, 3, 10]",Pyr,Wild Type,FOV1,502,False,FALSE,"C3 is a PC, VG.",Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-09-13-WRK2_R1-S2/FOV1/behav
+2023-09-13,WRK3,X,17,"[1, 2, 3, 4]",Pyr,Wild Type,FOV1,502,False,FALSE,Go Over NSD,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-09-13-WRK3_X-S2/FOV1/behav_000
+2023-09-13,WRK2,R1,23,"[3, 4, 7, 8, 9]",Pyr,Wild Type,FOV10,502,False,FALSE.1,"C3 abit marg, C7 might have PF",Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-09-13-WRK2_R1-S2/FOV10/Behav_001
+2023-09-13,WRK3,X,22,[4],Pyr,Wild Type,FOV7,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-09-13-WRK3_X-S2/FOV7/behav
+2023-08-29,WRK3,X,12,"[1, 3]",Pyr,Wild Type,FOV8,502,False,FALSE,"other cells have ugly signal, disappointing",Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-08-29-WRK3_X-S1/FOV8/behav_001
+2023-08-29,WRK3,R1,6,[2],Pyr,Wild Type,FOV3,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/R1/2023-08-29-WRK3_R1-S1/FOV3/Behav
+2023-08-29,WRK3,X,9,"[1, 5,7]",Pyr,Wild Type,FOV6,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-08-29-WRK3_X-S1/FOV6/behav_001
+2023-08-29,WRK3,X,3,"[1, 4, 5, 8, 10]",Pyr,Wild Type,FOV1,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-08-29-WRK3_X-S1/FOV1/behav
+2023-08-29,WRK3,R1,4,"[1,3,7]",Pyr,Wild Type,FOV1,502,False,FALSE,C3 is marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/R1/2023-08-29-WRK3_R1-S1/FOV1/Behav
+2023-08-29,WRK3,X,4,"[1, 2, 6]",Pyr,Wild Type,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-08-29-WRK3_X-S1/FOV2/behav_001
+2023-08-29,WRK3,X,8,"[5,7]",Pyr,Wild Type,FOV5,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-08-29-WRK3_X-S1/FOV5/behav
+2023-08-29,WRK3,X,6,"[2,4,5,7,10]",Pyr,Wild Type,FOV4,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK3/X/2023-08-29-WRK3_X-S1/FOV4/behav_001
+2023-08-28,WRK2,R1,15,"[3,5,6,7,9]",Pyr,Wild Type,FOV8,502,False,FALSE,C9 PF?,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-08-28-WRK2_R1-S1/FOV8/Behav_001
+2023-08-28,WRK2,R1,10,[4],Pyr,Wild Type,FOV4,502,False,FALSE,C5 had nice SS but signal too weak,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-08-28-WRK2_R1-S1/FOV4/Behav_001
+2023-08-28,WRK2,R1,12,"[1, 2]",Pyr,Wild Type,FOV5,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-08-28-WRK2_R1-S1/FOV5/Behav
+2023-08-28,WRK2,R1,7,"[1, 3,6,7]",Pyr,Wild Type,FOV2,502,False,FALSE,ugly signal,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-08-28-WRK2_R1-S1/FOV2/Behav_001
+2023-08-28,WRK2,R1,8,"[1, 2, 3, 8, 9]",Pyr,Wild Type,FOV3,502,False,FALSE,"C4,5,6,8 were marginal. has strong signal but it is just ugly!",Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-08-28-WRK2_R1-S1/FOV3/Behav
+2023-08-28,WRK2,R1,14,"[2,4,5,6,8]",Pyr,Wild Type,FOV7,502,False,FALSE,C2 weak PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/WRK2/R1/2023-08-28-WRK2_R1-S1/FOV7/Behav
+2023-07-13,SRK2,W,69,"[1, 2]",IN,SST,FOV9,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV9/behav
+2023-07-13,SRK2,W,67,"[2, 5]",IN,SST,FOV14,502,True,FALSE,C1 removed,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV14/remap
+2023-07-13,SRK2,W,61,"[ 5, 6, 7]",IN,SST,FOV1,502,False,FALSE,C4 removed,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV1/remap
+2023-07-13,SRK2,W,71,[1],IN,SST,FOV15,502,True,FALSE,"C2 was interesting and fired sparsely, but too marginal",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV15/remap
+2023-07-13,SRK2,W,62,"[1, 2, 3]",IN,SST,FOV2,502,True,FALSE,C4 removed,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV2/remap
+2023-07-13,SRK2,W,64,"[4,5]",IN,SST,FOV4,502,True,FALSE,G,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV4/remap
+2023-07-13,SRK2,W,68,"[1, 4, 5, 6, 7]",IN,SST,FOV8,502,True,FALSE,"C3 removed, C8&C9 were marginal,",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV8/behav
+2023-07-13,SRK2,W,66,[5],IN,SST,FOV11,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV11/behav
+2023-07-13,SRK2,W,63,"[1, 2, 3]",IN,SST,FOV3,502,True,FALSE,G,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV3/remap
+2023-07-13,SRK2,W,65_removed_laps,[4],IN,SST,FOV10,502,True,TRUE,has too many slow subthreshold changes! seems like noise,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-07-13-SRK2_W-S5/FOV10/remap
+2023-06-28,SRK2,W,58,"[1, 2]",IN,SST,FOV15,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV15/remap
+2023-06-28,SRK2,W,50,"[4,5]",IN,SST,FOV4,502,True,FALSE,G,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV4/remap
+2023-06-28,SRK2,W,57,[1],IN,SST,FOV13,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV13/remap
+2023-06-28,SRK2,W,53,"[1, 2]",IN,SST,FOV9,502,True,FALSE,good signal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV9/remap
+2023-06-28,SRK2,W,56,"[2, 3, 5 ]",IN,SST,FOV11,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV11/remap
+2023-06-28,SRK2,W,47_removed_laps,"[1,6, 7]",IN,SST,FOV1,502,True,TRUE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV1/remap_000
+2023-06-28,SRK2,W,54,"[2, 4]",IN,SST,FOV10,502,True,FALSE,okish,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV10/remap
+2023-06-28,SRK2,W,49,"[1, 2, 3, 4]",IN,SST,FOV3,502,True,FALSE,consider deleting C1,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV3/remap_000
+2023-06-28,SRK2,W,48,"[1, 2, 3]",IN,SST,FOV2,502,True,FALSE,C3 is interesting!!,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-06-28-SRK2_W-S4/FOV2/remap
+2023-06-14,RCK6,B,29,"[1, 4]",Pyr,CKII,FOV2,502,True,FALSE,C1 PF? C4 LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-14-RCK6_B-S3/FOV2/remap
+2023-06-14,RCK6,B,31,[1],Pyr,CKII,FOV7,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-14-RCK6_B-S3/FOV7/behav
+2023-06-14,RCK6,B,33,"[1, 2]",Pyr,CKII,FOV10,502,True,FALSE,FS Pyrs. wonder where they are located in brain. G,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-14-RCK6_B-S3/FOV10/remap
+2023-06-14,RCK6,B,27,"[1, 2, 3]",Pyr,CKII,FOV3,502,True,FALSE,C2-3 have same activity?,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-14-RCK6_B-S3/FOV3/1st_remap
+2023-06-14,RCK6,B,35,[1],Pyr,CKII,FOV11,502,True,FALSE,FS Pyr,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-14-RCK6_B-S3/FOV11/remap
+2023-06-14,RCK6,B,32,"[3, 4]",Pyr,CKII,FOV8,502,True,FALSE,"became completly silent at end, wonder if mouse stopped",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-14-RCK6_B-S3/FOV8/remap
+2023-06-08,SRK2,W,35,"[1, 4, 7]",IN,SST,FOV8,502,False,FALSE,G. good longi.very bursty! deleted many cells cause signal too weak,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV8/behav
+2023-06-08,SRK2,W,36,"[1, 2, 3]",IN,SST,FOV9,502,False,FALSE,nice. very different FP. VG. interesting longi!,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV9/behav
+2023-06-08,SRK2,W,38,"[2, 3, 5]",IN,SST,FOV11,502,False,FALSE,C2 a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV11/behav
+2023-06-08,SRK2,W,37,"[2, 4]",IN,SST,FOV10,502,False,FALSE,C2 a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV10/behav
+2023-06-08,SRK2,W,43,[5],IN,SST,FOV4,502,False,FALSE,"a bit marginal, delete?",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV4/spont
+2023-06-08,SRK2,W,33,[7],IN,SST,FOV1,502,False,FALSE,consider delete,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV1/behav
+2023-06-08,SRK2,W,42,"[3, 4]",IN,SST,FOV3,502,False,FALSE,G. C4 is so-so. nice longi with tuning inC3,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV3/spont
+2023-06-08,SRK2,W,34,[2],IN,SST,FOV2,502,False,FALSE,"VG. amazing tuning, even though it wasn't tuned in W#1",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV2/behav
+2023-06-08,SRK2,W,41_removed_laps,[5],IN,SST,FOV14,502,False,TRUE,"a bit marginal, delete?",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV14/behav
+2023-06-08,SRK2,W,40,"[1,4]",IN,SST,FOV13,502,False,FALSE,a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV13/behav
+2023-06-08,SRK2,W,44,[1],IN,SST,FOV7,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-08-06-SRK2_W-S3/FOV7/behav
+2023-06-07,RCK6,W,26,"[1, 3]",Pyr,CKII,FOV13,502,True,FALSE,Nice remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/W/2023-06-07-RCK6_W-S2/FOV13/behav
+2023-06-07,RCK6,W,24,[1],Pyr,CKII,FOV6,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/W/2023-06-07-RCK6_W-S2/FOV6/behav_000
+2023-06-07,RCK6,B,16,"[1, 2, 3, 4, 6]",Pyr,CKII,FOV3,502,False,FALSE,cells are very correlated. C2&3 have exactly same activity. G,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-07-RCK6_B-S2/FOV3/behav
+2023-06-07,RCK6,B,20,"[1, 2]",Pyr,CKII,FOV10,502,False,FALSE,really high FRs - with cool bursting,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-07-RCK6_B-S2/FOV10/behav_000
+2023-06-07,RCK6,B,18,[1],Pyr,CKII,FOV7,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-07-RCK6_B-S2/FOV7/behav
+2023-06-07,RCK6,W,23,[2],Pyr,CKII,FOV7,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/W/2023-06-07-RCK6_W-S2/FOV7/remap
+2023-06-07,RCK6,B,21,[1],Pyr,CKII,FOV11,502,False,FALSE,"FS pyr - VG, one of the best SNRs i ever got",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-07-RCK6_B-S2/FOV11/behav
+2023-06-07,RCK6,W,21,[1],Pyr,CKII,FOV12,502,True,FALSE,SD not perfect. consider deleting,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/W/2023-06-07-RCK6_W-S2/FOV12/behav_000
+2023-06-07,RCK6,B,19,"[1, 3, 4]",Pyr,CKII,FOV8,502,False,FALSE,perhaps C3 isn't good enough. but it has bursts at reward,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-07-RCK6_B-S2/FOV8/behav
+2023-06-07,RCK6,B,15_removed_laps_removed_laps,"[1, 4]",Pyr,CKII,FOV2,502,True,TRUE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-06-07-RCK6_B-S2/FOV2/behav
+2023-05-31,SRK2,W,25,"[4, 5]",IN,SST,FOV4,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV4/spont
+2023-05-31,SRK2,W,17,"[1, 2, 3, 4]",IN,SST,FOV3,502,False,FALSE.1,G. nice longi,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV3/spont
+2023-05-31,SRK2,W,20,"[1, 2, 3, 4, 6, 7, 8]",IN,SST,FOV8,502,False,FALSE,"C4 has bursts after RZ, C7 also",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV8/behav
+2023-05-31,SRK2,W,16,"[1, 2, 3]",IN,SST,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV2/behav
+2023-05-31,SRK2,W,19,[1],IN,SST,FOV6,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV6/behav
+2023-05-31,SRK2,W,26_removed_laps,[2],IN,SST,FOV5,502,False,TRUE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV5/spont
+2023-05-31,SRK2,W,15,"[1, 3, 6, 7]",IN,SST,FOV1,502,False,False.1,Unnamed: 11,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV1/behav
+2023-05-31,SRK2,W,21,"[1, 2]",IN,SST,FOV9,502,False,FALSE,C1 has bursts after RZ,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV9/behav_001
+2023-05-31,SRK2,W,24,[4],IN,SST,FOV12,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV12/behav
+2023-05-31,SRK2,W,22,"[2, 4, 6]",IN,SST,FOV10,502,False,FALSE,C5 had unusual bursts with large depolarizations,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV10/behav
+2023-05-31,SRK2,W,23,"[1, 2, 3, 5]",IN,SST,FOV11,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV11/behav_001
+2023-05-31,SRK2,W,27,"[1,4, 5]",IN,SST,FOV13,502,False,FALSE,NSD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV13/behav
+2023-05-31,SRK2,W,28,"[1, 2, 4, 5]",IN,SST,FOV14,502,False,FALSE,marginal?,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-31-SRK2_W-S2/FOV14/behav_001
+2023-05-24,SRK2,W,8,"[2, 3]",IN,SST,FOV5,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV5/behav
+2023-05-24,SRK2,W,10,"[1, 4,7]",IN,SST,FOV6,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV6/behav
+2023-05-24,SRK2,W,7_removed_laps,"[4,5]",IN,SST,FOV4,502,False,TRUE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV4/behav
+2023-05-24,SRK2,W,3,"[1, 3, 6, 7]",IN,SST,FOV1,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV1/behav
+2023-05-24,SRK2,W,5,"[1, 2, 3, 5]",IN,SST,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV2/spont_000
+2023-05-24,SRK2,W,11,[1],IN,SST,FOV7,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV7/behav
+2023-05-24,SRK2,W,6,"[1, 2, 3, 4]",IN,SST,FOV3,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK2/W/2023-05-24-SRK2_W-S1/FOV3/behav
+2023-05-17,RCK6,W,3,[3],Pyr,CKII,FOV1,502,False,FALSE,okish signal,Z:\Adam-Lab-Shared\Data\Imaging_Data\RCK6\W\2023-05-17-RCK6_W-S1\FOV1\behav
+2023-05-17,RCK6,B,4,"[3,4]",Pyr,CKII,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-05-17-RCK6_B-S1/FOV2/behav
+2023-05-17,RCK6,W,6,[3],Pyr,CKII,FOV4,502,False,FALSE,Very Bursty,Z:\Adam-Lab-Shared\Data\Imaging_Data\RCK6\W\2023-05-17-RCK6_W-S1\FOV4\behav
+2023-05-17,RCK6,B,6,[2],Pyr,CKII,FOV4,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-05-17-RCK6_B-S1/FOV4/behav
+2023-05-17,RCK6,W,10,[1],Pyr,CKII,FOV8,502,False,FALSE,seems ok,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/W/2023-05-17-RCK6_W-S1/FOV8/behav
+2023-05-17,RCK6,B,11,"[3, 4]",Pyr,CKII,FOV8,502,False,FALSE,G. good signal! but behavior is not great,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-05-17-RCK6_B-S1/FOV8/behav_001
+2023-05-17,RCK6,B,10,[1],Pyr,CKII,FOV7,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-05-17-RCK6_B-S1/FOV7/behav
+2023-05-17,RCK6,B,5,[1],Pyr,CKII,FOV3,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK6/B/2023-05-17-RCK6_B-S1/FOV3/behav
+2023-05-17,RCK6,W,7,"[4, 5]",Pyr,CKII,FOV5,502,False,FALSE,None,Z:\Adam-Lab-Shared\Data\Imaging_Data\RCK6\W\2023-05-17-RCK6_W-S1\FOV5\behav_001
+2023-05-03,COP7,R1,67,"[1, 2, 3]",Pyr,CKII,FOV1,502,True,FALSE,interesting,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-05-03-COP7_R1-S6/FOV1/behav
+2023-05-03,COP7,R1,70_removed_laps,"[1, 2]",Pyr,CKII,FOV4,502,True,TRUE,interesting remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-05-03-COP7_R1-S6/FOV4/behav
+2023-05-03,COP7,R1,68,[2],Pyr,CKII,FOV2,502,True,FALSE,very nice remapping. VG,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-05-03-COP7_R1-S6/FOV2/behav
+2023-04-27,COP7,R1,58,[2],Pyr,CKII,FOV2,502,True,FALSE,something in remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-04-27-COP7_R1-S5/FOV2/behav
+2023-04-27,COP7,R1,61,[4],Pyr,CKII,FOV8,502,True,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-04-27-COP7_R1-S5/FOV8/remap
+2023-04-27,COP7,R1,60,"[1, 2]",Pyr,CKII,FOV4,502,True,FALSE,"maybe delete cell 1, even though it changes in remap",Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-04-27-COP7_R1-S5/FOV4/remap
+2023-04-27,COP7,R1,62,"[1, 2]",Pyr,CKII,FOV9,502,True,FALSE,maybe delete C2,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-04-27-COP7_R1-S5/FOV9/remap
+2023-04-27,COP7,R1,59,"[ 3, 4]",Pyr,CKII,FOV3,502,True,FALSE,C4 very interesting remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-04-27-COP7_R1-S5/FOV3/remap
+2023-04-27,COP7,R1,57,"[1, 2, 3]",Pyr,CKII,FOV1,502,True,FALSE,bursty firing but good signal. maybe spatial?,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-04-27-COP7_R1-S5/FOV1/behav_st_remap
+2023-04-04,SRK1,X,86,"[1, 4]",IN,SST,FOV5,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-04-04-SRK1_X-S7/FOV5/behav
+2023-04-04,SRK1,R1,95,"[1, 2,4, 5]",IN,SST,FOV11,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV11/behav
+2023-04-04,SRK1,R1,90,[3],IN,SST,FOV3,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV3/behav
+2023-04-04,SRK1,R1,92,"[1,4,6,8]",IN,SST,FOV5,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV5/behav
+2023-04-04,SRK1,R1,96,"[2, 3]",IN,SST,FOV13,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV13/behav
+2023-04-04,SRK1,R1,99,"[ 3, 4]",IN,SST,FOV16,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV16/behav
+2023-04-04,SRK1,R1,98,"[1, 2]",IN,SST,FOV19,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV19/behav
+2023-04-04,SRK1,R1,97,"[3,5,7]",IN,SST,FOV18,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV18/behav
+2023-04-04,SRK1,X,89,[1],IN,SST,FOV17,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-04-04-SRK1_X-S7/FOV17/behav
+2023-04-04,SRK1,R1,89,"[1, 2, 3, 4, 5, 6, 8]",IN,SST,FOV1,502,False,FALSE,C7 is marginal. very nice signals,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-04-04-SRK1_R1-S7/FOV1/behav
+2023-04-04,SRK1,X,85,"[1, 2]",IN,SST,FOV1,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-04-04-SRK1_X-S7/FOV1/behav
+2023-04-04,SRK1,X,87,"[1, 2]",IN,SST,FOV7,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-04-04-SRK1_X-S7/FOV7/behav
+2023-04-04,SRK1,X,88,"[1, 2, 3]",IN,SST,FOV16,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-04-04-SRK1_X-S7/FOV16/behav
+2023-03-29,COP7,R1,43,"[1, 2, 3]",Pyr,CKII,FOV1,502,False,FALSE,"C2 PF, C1 maybe. C3 is interesting! G",Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-29-COP7_R1-S4/FOV1/behav
+2023-03-29,COP7,R1,49_removed_laps,"[1, 2]",Pyr,CKII,FOV9,502,False,TRUE,trying things,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-29-COP7_R1-S4/FOV9/behav
+2023-03-29,COP7,R1,45,"[2, 7]",Pyr,CKII,FOV2,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-29-COP7_R1-S4/FOV2/behav
+2023-03-29,COP7,R1,48,"[1, 2]",Pyr,CKII,FOV8,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-29-COP7_R1-S4/FOV8/behav
+2023-03-29,COP7,R1,46,"[2, 3, 4]",Pyr,CKII,FOV3,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-29-COP7_R1-S4/FOV3/behav
+2023-03-29,COP7,R1,47,"[1, 4]",Pyr,CKII,FOV4,502,False,FALSE,None,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-29-COP7_R1-S4/FOV4/behav_001
+2023-03-21,SRK1,X,79,"[1, 2]",IN,SST,FOV17,500,True,FALSE,"C1,C2 - some missed spikes? consider letting go. SD",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV17/behav
+2023-03-21,SRK1,X,75,"[1, 4]",IN,SST,FOV3,500,True,FALSE,"3,4 is marginal. SD. ok remapping",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV3/behav
+2023-03-21,SRK1,R1,73,"[1, 3]",IN,SST,FOV3,500,False,FALSE,C1 is marginal. SD,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV3/behav
+2023-03-21,SRK1,X,76,"[1, 2, 3]",IN,SST,FOV7,500,True,FALSE,"2,3 is marginal? SD.",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV7/behav
+2023-03-21,SRK1,R1,84,"[1, 3, 5, 7]",IN,SST,FOV18,500,True,FALSE,"C1,5,7 have simillar patterns, while 3 is different. SD. nice remap",//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV18/behav_001
+2023-03-21,SRK1,X,80,[1],IN,SST,FOV10,500,True,FALSE,SD. slowing down in RZ,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV10/behav
+2023-03-21,SRK1,R1,79_cut_laser_drop,"[3, 4, 5, 6, 7, 8]",IN,SST,FOV10,500,True,TRUE,"C3,C4 is marginal, SD. stable in remapping",//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV10/behav
+2023-03-21,SRK1,R1,77,[1],IN,SST,FOV7,500,True,FALSE,2 is marginal. SD. increases FR in N,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV7/behav
+2023-03-21,SRK1,R1,86_cut_laser_drop,"[1, 2, 3]",IN,SST,FOV19,500,True,TRUE,"SD. lap 5 removed, can be used to examine FR when standing. C5,6 is marginal. not alot of laps in F",//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV19/behav
+2023-03-21,SRK1,X,73,"[1, 2]",IN,SST,FOV1,500,False,FALSE,SD. both tuned to start,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV1/behav
+2023-03-21,SRK1,X,81,"[3, 4]",IN,SST,FOV8,500,True,FALSE,"1-2, 4 also marginal. SD. VG, good rampping in C3",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV8/behav_001
+2023-03-21,SRK1,R1,75,"[1, 2]",IN,SST,FOV4,500,True,FALSE,"SD. C1 has really wierd signal, looks like PC. C1&2&4 marginal. nice tuning",//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV4/behav
+2023-03-21,SRK1,X,77,"[2, 3, 4]",IN,SST,FOV15,500,True,FALSE,"weird signals, check whether i even want them in DB, SD.",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV15/behav
+2023-03-21,SRK1,R1,76,"[1, 4, 6, 8]",IN,SST,FOV5,500,True,FALSE,C3 marginal. SD. remapping defenitly had impact,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV5/behav
+2023-03-21,SRK1,X,74,"[1, 3, 4]",IN,SST,FOV5,500,True,FALSE,SD. G. nice remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV5/behav_000
+2023-03-21,SRK1,R1,81_a,"[2, 3]",IN,SST,FOV13,500,True,FALSE,SD. nice remapping,//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV13/behav
+2023-03-21,SRK1,R1,80_cut_laser_drop,"[1, 2, 4, 5]",IN,SST,FOV11,500,True,TRUE,"SD.lap 16 was removed, because he stood. can be used to look at FR during standing.VG. good remap",//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV11/behav
+2023-03-21,SRK1,R1,74,"[1, 2, 4, 5, 6, 8]",IN,SST,FOV1,500,True,FALSE,"SD. C6,8 are a bit marginal, some invented spikes in 2nd half. cells look pretty correlated",//ems.elsc.huji.ac.il/adam-lab/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-21-SRK1_R1-S6/FOV1/behav
+2023-03-21,SRK1,X,78,"[1, 2, 3]",IN,SST,FOV16,500,True,FALSE,SD. ok remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-21-SRK1_X-S6/FOV16/behav
+2023-03-13,COP7,R1,31_cut_laser_drop,"[1, 2, 3]",Pyr,CKII,FOV1,500,False,TRUE,SD. PFs are not so good anymore but something still exists,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-13-COP7_R1-S3/FOV1/spon_000
+2023-03-13,COP7,R1,38_a,"[1, 2]",Pyr,CKII,FOV9,500,False,FALSE,SD. marginal PFs at end,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-13-COP7_R1-S3/FOV9/behav_000
+2023-03-13,COP7,R1,37,[1],Pyr,CKII,FOV8,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-13-COP7_R1-S3/FOV8/behav
+2023-03-13,COP7,R1,35,"[2, 5]",Pyr,CKII,FOV4,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-13-COP7_R1-S3/FOV4/behav
+2023-03-02,SRK1,X,62,"[1, 2, 3, 4]",IN,SST,FOV5,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV5/behav
+2023-03-02,SRK1,X,61,"[1, 2, 3, 5]",IN,SST,FOV3,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV3/behav_001
+2023-03-02,SRK1,R1,59,"[1, 2, 3]",IN,SST,FOV3,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV3/behav
+2023-03-02,SRK1,R1,69_b_cut_laser_drop,"[1, 2, 4, 5]",IN,SST,FOV11,500,True,TRUE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV11/behav
+2023-03-02,SRK1,R1,61,[2],IN,SST,FOV4,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV4/behav
+2023-03-02,SRK1,R1,68,"[5, 6, 7]",IN,SST,FOV10,500,True,FALSE,SD. 4 is marginal. ,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV10/behav
+2023-03-02,SRK1,X,65,"[1, 2]",IN,SST,FOV10,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV10/behav
+2023-03-02,SRK1,R1,62,"[1, 7, 8]",IN,SST,FOV5,500,True,FALSE,"SD. 7,8 is marginal",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV5/behav_001
+2023-03-02,SRK1,R1,65,"[1, 2]",IN,SST,FOV7,500,True,FALSE,SD. cool remapping in both cells!,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV7/behav_001
+2023-03-02,SRK1,R1,70,"[3, 5]",IN,SST,FOV16,500,True,FALSE,"4 is marginal,6 also",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV16/behav
+2023-03-02,SRK1,X,68,"[1, 2, 3]",IN,SST,FOV16,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV16/behav
+2023-03-02,SRK1,R1,66,"[2, 3]",IN,SST,FOV13,500,True,FALSE,SD. VG interesting remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV13/behav
+2023-03-02,SRK1,X,69,"[1, 2]",IN,SST,FOV17,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV17/behav_001
+2023-03-02,SRK1,R1,60,"[1, 2, 3, 4, 5, 6]",IN,SST,FOV1,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-03-02-SRK1_R1-S5/FOV1/behav_001
+2023-03-02,SRK1,X,59,"[1, 2]",IN,SST,FOV1,500,False,FALSE,SD. both cells are tuned,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV1/behav
+2023-03-02,SRK1,X,66,[2],IN,SST,FOV14,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-03-02-SRK1_X-S5/FOV14/behav_001
+2023-03-01,RCK5,L1,60,"[2, 3]",Pyr,CKII,FOV12,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV12/remap_001
+2023-03-01,RCK5,L1,64,"[1, 2]",Pyr,CKII,FOV16,500,True,FALSE,C2 has weird plateauish signals. C1 ncie remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV16/remap_001
+2023-03-01,RCK5,L1,54,"[1, 4]",Pyr,CKII,FOV1,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV1/remap
+2023-03-01,COP7,R1,16,"[1, 2, 3]",Pyr,CKII,FOV1,500,False,FALSE,SD. PFs. are cells 1&2 sharing pixels?,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-01-COP7_R1_S2_25X/FOV1/spon_001
+2023-03-01,RCK5,L1,58,[1],Pyr,CKII,FOV8,500,True,FALSE,increase in N,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV8/behav
+2023-03-01,COP7,R1,24,[1],Pyr,CKII,FOV5,500,False,FALSE,SD. very nice PF. G.,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-01-COP7_R1_S2_25X/FOV5/spont
+2023-03-01,RCK5,L1,63,"[1, 3]",Pyr,CKII,FOV15,500,True,FALSE,Very nice remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV15/remap
+2023-03-01,RCK5,L1,59,"[1, 2, 4]",Pyr,CKII,FOV9,500,True,FALSE,C1 LEs. C4 nice remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV9/remap
+2023-03-01,RCK5,L1,56,"[2, 4, 5, 9]",Pyr,CKII,FOV2,500,True,FALSE,not very interesting,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV2/remap_001
+2023-03-01,RCK5,L1,61,"[2, 3]",Pyr,CKII,FOV13,500,True,FALSE,"similar PFs, interesting rempping in C3",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV13/behav
+2023-03-01,COP7,R1,23,"[2, 4, 5]",Pyr,CKII,FOV4,500,False,FALSE,SD.  VG! PFS! C5 amazing PF.,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-01-COP7_R1_S2_25X/FOV4/spont
+2023-03-01,COP7,R1,19,"[1, 2, 4, 5, 7]",Pyr,CKII,FOV2,500,False,FALSE,SD. VG. C1&4 PF. C2 LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-01-COP7_R1_S2_25X/FOV2/spon
+2023-03-01,RCK5,L1,57,"[1, 2]",Pyr,CKII,FOV3,500,True,FALSE,both increase in N,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-03-01-RKC5_L1-S5/FOV3/behav
+2023-03-01,COP7,R1,21,"[2, 3, 4]",Pyr,CKII,FOV3,500,False,FALSE,cell 2 isn't great. cell 3 has amazing PF. VG,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-03-01-COP7_R1_S2_25X/FOV3/spont
+2023-02-14,COP7,R1,10,"[2, 3, 4, 5, 8]",Pyr,CKII,FOV4,500,False,FALSE,has some bad wiggle at beginning. nothing intersting\,Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-02-14-COP7-R1-S1/FOV4/behav_001
+2023-02-14,COP7,R1,7,"[2, 5, 6]",Pyr,CKII,FOV2,500,False,FALSE,"Fast spiking, doesn't seem meaningfull",Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-02-14-COP7-R1-S1/FOV2/behav
+2023-02-14,COP7,R1,9,[1],Pyr,CKII,FOV3,500,False,FALSE,"fat spiking, not interesting.",Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-02-14-COP7-R1-S1/FOV3/behav
+2023-02-14,COP7,R1,4,"[1, 2]",Pyr,CKII,FOV1,500,False,FALSE,"C1 PF. maybe 2 as well.cells 3,7 are marginal due to alot of motion in begining. consider running partial?",Z:/Adam-Lab-Shared/Data/Imaging_Data/COP7/R1/2023-02-14-COP7-R1-S1/FOV1/behav
+2023-02-13,SRK1,R1,55,"[2, 3]",IN,SST,FOV13,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV13/behav
+2023-02-13,SRK1,R1,50_a_cut_laser_drop,"[3, 4, 5]",IN,SST,FOV16,500,False,TRUE,SD. mouse stood during 1st lap. deleted. 4 marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV16/behav_001
+2023-02-13,SRK1,R1,45_a,"[2, 3]",IN,SST,FOV3,500,False,FALSE,"SD. cells 1,4,5 are marginal. ",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV3/behav
+2023-02-13,SRK1,R1,44,"[1, 2, 3, 4, 5, 6]",IN,SST,FOV1,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV1/behav
+2023-02-13,SRK1,R1,53_a,[2],IN,SST,FOV4,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV4/behav_001
+2023-02-13,SRK1,R1,49_a,"[1, 2, 5]",IN,SST,FOV7,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV7/behav
+2023-02-13,SRK1,R1,51,"[1, 2, 4, 5]",IN,SST,FOV17,500,False,FALSE,SD. great signal!!,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV17/behav
+2023-02-13,SRK1,R1,46_a,"[1, 3]",IN,SST,FOV9,500,False,FALSE,SD. 2 marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV9/behav_001
+2023-02-13,SRK1,R1,47,"[1, 2, 3, 4, 5, 6, 7, 8]",IN,SST,FOV15,500,False,FALSE,"SD. 2nd recording of FOV1 in this session, but with 2 extra cells",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV15/behav
+2023-02-13,SRK1,R1,48,"[2, 4, 5, 6, 7, 8]",IN,SST,FOV10,500,False,FALSE,SD. 2 pretty marg.,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-02-13-SRK1_R1_S4/FOV10/behav_001
+2023-02-08,SRK1,X,46,"[1, 3, 4, 5]",IN,SST,FOV3,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV3/behav_001
+2023-02-08,RCK5,L1,42,"[1, 3, 4]",Pyr,CKII,FOV1,500,True,FALSE,PFs?  SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV1/1st_remap
+2023-02-08,SRK1,X,45,[1],IN,SST,FOV1,500,False,FALSE,PF! SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV1/behav
+2023-02-08,RCK5,L1,46,[1],Pyr,CKII,FOV8,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV8/remap
+2023-02-08,RCK5,L1,44,"[1, 2, 3, 4, 5]",Pyr,CKII,FOV2,500,True,FALSE,SD.cell 1 has PF in N but not in F. ,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV2/remap_000
+2023-02-08,RCK5,L1,48,[2],Pyr,CKII,FOV11,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV11/remap
+2023-02-08,RCK5,L1,47,"[1, 2, 3, 4]",Pyr,CKII,FOV9,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV9/remap_001
+2023-02-08,SRK1,X,47,"[1, 3]",IN,SST,FOV4,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV4/behav
+2023-02-08,SRK1,X,49,[2],IN,SST,FOV6_newer,500,False,FALSE,SD.,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV6_newer/behav
+2023-02-08,SRK1,X,52,[1],IN,SST,FOV10,500,False,FALSE,SD. 2 is marg,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV10/behav_001
+2023-02-08,SRK1,X,50,"[1, 2, 3]",IN,SST,FOV7,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV7/behav_001
+2023-02-08,RCK5,L1,51,"[1, 2]",Pyr,CKII,FOV14,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV14/remap_001
+2023-02-08,RCK5,L1,50,"[1, 3]",Pyr,CKII,FOV13,500,True,FALSE,SD. cell 3 has nice PF. nothing really cahnges in remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV13/remap
+2023-02-08,SRK1,X,48,"[1, 3, 4]",IN,SST,FOV5,500,False,FALSE,SD. removed C5,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-02-08-SRK1-S4/FOV5/behav_001
+2023-02-08,RCK5,L1,45,"[1, 2]",Pyr,CKII,FOV3,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV3/remap_002
+2023-02-08,RCK5,L1,49,"[1, 2, 3]",Pyr,CKII,FOV12,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-02-08-RCK5_L1-S4/FOV12/remap_001
+2023-02-02,SRK1,R1,32,"[1, 3]",IN,SST,FOV9,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV9/behav_001
+2023-02-02,SRK1,R1,37,"[1, 2]",IN,SST,FOV7,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV7/behav
+2023-02-02,SRK1,R1,38,"[2, 3]",IN,SST,FOV13,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV13/behav_001
+2023-02-02,SRK1,R1,34,"[2, 3, 4, 5]",IN,SST,FOV10,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV10/behav_001
+2023-02-02,SRK1,R1,33_a_cut_laser_drop,"[1,3, 5]",IN,SST,FOV6,500,False,TRUE,SD. 2 is marginal. C5 is tuned,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV6/behav
+2023-02-02,SRK1,R1,30,"[1, 2, 3, 4, 5, 6, 7]",IN,SST,FOV1,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV1/behav-2nd
+2023-02-02,SRK1,R1,35,"[1, 2, 4, 5]",IN,SST,FOV11,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV11/behav
+2023-02-02,SRK1,R1,36,"[4, 5]",IN,SST,FOV12,500,False,FALSE,SD. cell 2 is marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV12/behav_001
+2023-02-02,SRK1,R1,31,[3],IN,SST,FOV3,500,False,FALSE,"SD. 1,4,5 are all marginal, check again",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-30-SRK1_R1-S3/FOV3/behav
+2023-01-25,SRK1,X,33,"[1, 2, 3, 4]",IN,SST,FOV3,500,False,FALSE,C1 has interesting FR & longi!!,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV3/behav
+2023-01-25,SRK1,X,36,[2],IN,SST,FOV9,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV9/behav
+2023-01-25,SRK1,X,41,"[1, 2]",IN,SST,FOV13,1000,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV13/behav-1khz
+2023-01-25,SRK1,X,34,"[1, 2, 3]",IN,SST,FOV4,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV4/behav
+2023-01-25,SRK1,X,37,"[1, 2, 3]",IN,SST,FOV7,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV7/behav_001
+2023-01-25,SRK1,X,32,[1],IN,SST,FOV1,500,False,FALSE,SD. has something spatial,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV1/behav
+2023-01-25,SRK1,X,42,"[1,2]",IN,SST,FOV6_new,500,False,FALSE,SD. cells 2-3 are marginal.,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV6_new/behav
+2023-01-25,SRK1,X,40,[1],IN,SST,FOV12,1000,False,FALSE,SD. interesting relation to speed? or just motion? definetly looks spatial! VG,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV12/behav-1khz_001
+2023-01-25,SRK1,X,35,"[1, 3, 5]",IN,SST,FOV5,500,False,FALSE,SD. cell 2 a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV5/behav_001
+2023-01-25,SRK1,X,38,"[1, 2]",IN,SST,FOV10,500,False,FALSE,SD. A BIT MARGINAL,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV10/behav
+2023-01-25,SRK1,X,39,[1],IN,SST,FOV11,1000,False,FALSE,SD.  clear reduction during licking! could be speed! VG,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-25-SRK1_X-S3/FOV11/behav-1khz
+2023-01-18,RCK5,L1,34_a,"[1, 2, 4]",Pyr,CKII,FOV9,500,False,FALSE,SD. fixed merge. cells 1&4 might have PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV9/behav
+2023-01-18,RCK5,L1,30,"[1, 3]",Pyr,CKII,FOV1,500,False,FALSE,SD. emerged PF in C3,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV1/Behav
+2023-01-18,RCK5,L1,36,[3],Pyr,CKII,FOV12,500,False,FALSE,SD. PF with a bit of shift.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV12/behav
+2023-01-18,RCK5,L1,31,"[1, 2, 3, 4]",Pyr,CKII,FOV2,500,False,FALSE,"SD. C1 has one LE, maybe also cell 3. cells 1& 2 have PF",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV2/behavv
+2023-01-18,RCK5,L1,35,[2],Pyr,CKII,FOV11,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV11/behav_001
+2023-01-18,RCK5,L1,38,"[1, 2]",Pyr,CKII,FOV15,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV15/behav
+2023-01-18,RCK5,L1,32_a,[1],Pyr,CKII,FOV3,500,False,FALSE,SD. amazing PF with great accuracy (maybe 2?),Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV3/behav
+2023-01-18,RCK5,L1,33,"[1, 2, 3]",Pyr,CKII,FOV8,500,False,FALSE,SD. 3 maybe PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV8/behav_001
+2023-01-18,RCK5,L1,37,[3],Pyr,CKII,FOV13,500,False,FALSE,SD. C3 PF.deleted cell 2,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-18-RCK5_L1-S3/FOV13/behav_001
+2023-01-11,SRK1,X,22,"[1, 3, 4]",IN,SST,FOV5,500,False,FALSE.1,SD. cell 2 is marginal. all cells have similar reduction. maybe speed,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV5/behav
+2023-01-11,SRK1,R1,21,"[1, 2, 4, 5, 8]",IN,SST,FOV5,500,False,FALSE,SD.cell 3 is marginal. 2&8 also a bit,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-11-SRK1-R1-S2/FOV5/Behavior
+2023-01-11,SRK1,X,23,[1],IN,SST,FOV6,1000,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV6/behav-1khz
+2023-01-11,SRK1,X,26,[1],IN,SST,FOV9,1000,False,FALSE,SD. PF in SST,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV9/behav-1khz_001
+2023-01-11,SRK1,X,25_a,"[1, 2, 3, 4]",IN,SST,FOV8,500,False,FALSE,"SD. had shifting. ran new merge, fixed it. cells 1&4 ar anti-correlated. ",Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV8/behav_001
+2023-01-11,SRK1,X,18,[1],IN,SST,FOV1,500,False,FALSE,SD. PF in SST cell!!,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV1/behav
+2023-01-11,SRK1,R1,16,"[1, 2, 3, 4, 5, 6, 7]",IN,SST,FOV1,500,False,FALSE,SD. 7 is a bit marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-11-SRK1-R1-S2/FOV1/Behavior
+2023-01-11,SRK1,X,21,"[1, 2, 3]",IN,SST,FOV4,500,False,FALSE,VG. SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV4/behav_001
+2023-01-11,SRK1,R1,18,"[1, 2]",IN,SST,FOV2,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-11-SRK1-R1-S2/FOV2/Behavior_001
+2023-01-11,SRK1,X,19,[3],IN,SST,FOV2,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV2/behav_001
+2023-01-11,SRK1,X,24,"[1, 3]",IN,SST,FOV7,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV7/behav
+2023-01-11,SRK1,X,20,"[2, 3, 4, 5]",IN,SST,FOV3,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/X/2023-01-11-SRK1-X-S2/FOV3/behav
+2023-01-11,SRK1,R1,19,[3],IN,SST,FOV3,500,False,FALSE,SD. one of these huge cells,Z:/Adam-Lab-Shared/Data/Imaging_Data/SRK1/R1/2023-01-11-SRK1-R1-S2/FOV3/Behavior
+2023-01-08,RCK5,L1,26,[2],Pyr,CKII,FOV14,500,False,FALSE,SD.burst that travels in space. some PF.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV14/Behav_001
+2023-01-08,RCK5,L1,25,"[1, 3]",Pyr,CKII,FOV13,500,False,FALSE,"SD.cell 1 has LE, and than PF.  cell 3 also PF",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV13/Behav
+2023-01-08,RCK5,L1,22_a,"[1, 2]",Pyr,CKII,FOV9,500,False,FALSE,"SD. had shifting, turned out as PF. ",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV9/Behav
+2023-01-08,RCK5,L1,21,"[1, 3]",Pyr,CKII,FOV8,500,False,FALSE,SD. some PF in both,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV8/behave
+2023-01-08,RCK5,L1,17,"[1, 2, 3]",Pyr,CKII,FOV1,500,False,FALSE,SD. all have some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV1/Behav
+2023-01-08,RCK5,L1,20,"[3, 4, 5]",Pyr,CKII,FOV5,500,False,FALSE,SD. cell 3 emerging PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV5/behav
+2023-01-08,RCK5,L1,19,[1],Pyr,CKII,FOV3,500,False,FALSE,SD. some PF. again pretty accurate firing in begining,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV3/Behav
+2023-01-08,RCK5,L1,24,[2],Pyr,CKII,FOV11,500,False,FALSE,SD. very accurate recurring activity in several laps,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV11/beahv_001
+2023-01-08,RCK5,L1,18,"[2, 3, 4]",Pyr,CKII,FOV2,500,False,FALSE,SD. all have some PF. C2 nice emergence,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV2/Behav_001
+2023-01-08,RCK5,L1,23,"[1, 2, 3]",Pyr,CKII,FOV12,500,False,FALSE,"SD. C3 PF, entrie FOV a bit marginal",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2023-01-05-RCK5_L1-S2/FOV12/beahv
+2023-01-04,RCK2,X,126_cut_laser_drop,[1],Pyr,CKII,FOV15,500,True,TRUE,SD. wide PF in both F & N,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV15/Behav_001
+2023-01-04,RCK2,X,125,"[1, 2, 3]",Pyr,CKII,FOV10,500,False,FALSE,SD. cell 1 PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV10/Behav
+2023-01-04,RCK2,X,124,[2],Pyr,CKII,FOV21,500,True,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV7/Behav_001
+2023-01-04,RCK2,X,121,[3],Pyr,CKII,FOV3,500,False,FALSE,SD. Some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV3/Behav_remap
+2023-01-04,RCK2,X,128_cut_laser_drop,[2],Pyr,CKII,FOV18,500,False,TRUE,SD.PF!,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV18/Behav
+2023-01-04,RCK2,X,119,"[4, 7]",Pyr,CKII,FOV1,500,True,FALSE,SD.cell 4 fires sparsely.  cell 7 is sillent before RZ. VG.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV1/Behav_remap
+2023-01-04,RCK2,X,129,[1],Pyr,CKII,FOV20,500,True,FALSE,SD. some change in remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV20/Behav_001
+2023-01-04,RCK2,X,123_a,[4],Pyr,CKII,FOV4,500,False,FALSE,"SD. cell 4 had shifting PF, tried to fix. cell 1 had good signal which for some reason changed? looks like the demixing is screwed",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-01-04-RKC2_X-S11/FOV4/Behav
+2022-12-15,RCK5,L1,13,[3],Pyr,CKII,FOV10,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2022-12-15-RCK5_L1-S1/FOV10/Behav_001
+2022-12-15,RCK5,L1,11_cut_laser_drop,"[1, 3]",Pyr,CKII,FOV8,500,False,TRUE,SD. very bursty.  PFs,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2022-12-15-RCK5_L1-S1/FOV8/Behav
+2022-12-15,RCK5,L1,12,[1],Pyr,CKII,FOV9,500,False,FALSE,SD.has something spatial? but very few laps,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2022-12-15-RCK5_L1-S1/FOV9/Behav
+2022-12-15,RCK5,L1,14,[2],Pyr,CKII,FOV11,500,False,FALSE,"SD, very few laps",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2022-12-15-RCK5_L1-S1/FOV11/Behav
+2022-12-15,RCK5,L1,4,"[1, 2, 3, 4, 5]",Pyr,CKII,FOV2,500,False,FALSE,SD. C5 fires very sparsly. maybe delete. G. spatial activity,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2022-12-15-RCK5_L1-S1/FOV2/Behav_001
+2022-12-15,RCK5,L1,7,"[3, 4, 5]",Pyr,CKII,FOV5,500,False,FALSE,SD. cell 2 is marginal. C3 good emerging PF. C4 also. C5 LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK5/L1/2022-12-15-RCK5_L1-S1/FOV5/Behav
+2022-12-14,RCK2,X,111,"[1, 2, 3]",Pyr,CKII,FOV23,500,True,FALSE,SD. FS pyrs. cell 2 has interesting inhibitions. all have pretty ncie remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV10/Behav_remap
+2022-12-14,RCK2,X,110,[2],Pyr,CKII,FOV21,500,True,FALSE,SD. G. some change in remap,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV7/Behav_remap_001
+2022-12-14,RCK2,X,108_cut_laser_drop,"[4, 5]",Pyr,CKII,FOV4,500,True,TRUE,SD. both cells change in remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV4/Behav_remap_001
+2022-12-14,RCK2,X,105,"[4, 5, 7]",Pyr,CKII,FOV1,500,False,FALSE,SD. cell 4 is marginal. cell 5 has weird plateaus. cell 7 is VG,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV1/Behav
+2022-12-14,RCK2,X,107_cut_laser_drop,[3],Pyr,CKII,FOV3,500,True,TRUE,SD. VG. has interesting patterns and plateaus.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV3/Behav_remap
+2022-12-14,RCK2,X,114,[2],Pyr,CKII,FOV18,500,True,FALSE,SD. VG. huge event in start of N. activity changes in remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV18/Behav_remap_001
+2022-12-14,RCK2,X,113,[1],Pyr,CKII,FOV17,500,True,FALSE,SD. G. cool remapping with LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV17/Behav_remap
+2022-12-14,RCK2,X,109,"[2, 3]",Pyr,CKII,FOV5,500,True,FALSE,SD. VG. cells 2&3 have these huge events. one in start of F and one in start of N. SO COOL,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV5/Behav_remap
+2022-12-14,RCK2,X,112,[1],Pyr,CKII,FOV15,500,True,FALSE,SD. VG. cool remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-14-RCK2_X-S10/FOV15/Behav_remap_001
+2022-12-08,RCK2,X,101_cut_laser_drop,"[1, 2]",Pyr,CKII,FOV19,500,True,TRUE,SD. FS pyrs.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV19/Behav_rermap
+2022-12-08,RCK2,X,95_cut_laser_drop,[1],Pyr,CKII,FOV15,500,False,TRUE,SD. ,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV15/Behav_001
+2022-12-08,RCK2,X,100,"[1, 2]",Pyr,CKII,FOV18,500,False,FALSE,"SD. VG. AMAZING signal. FS pyrs. have some really clear inhibitions, see if they are realted to anything spatail\behavioral",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV18/Behav_Added_water
+2022-12-01,RCK2,X,86,[7],Pyr,CKII,FOV1,500,False,FALSE,SD.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV1/Behav
+2022-12-01,RCK2,X,88,"[1, 3, 5, 6]",Pyr,CKII,FOV3,500,True,FALSE,SD. C3 increases FR.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV3/Behav
+2022-12-01,RCK2,X,92,[2],Pyr,CKII,FOV21,500,False,FALSE,SD. some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV7/Behav
+2022-12-01,RCK2,X,94,"[3, 4]",Pyr,CKII,FOV11,500,False,FALSE,SD. C3 plateuas. C4 some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV11/Behav
+2022-12-01,RCK2,X,90,"[4,5]",Pyr,CKII,FOV4,500,False,FALSE,SD. C4 sparse,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV4/behav
+2022-12-01,RCK2,X,93_cut_laser_drop,"[1, 2, 3]",Pyr,CKII,FOV10,500,True,TRUE,SD. VG. C1 changing PF.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-12-01-RCK2_X-S9/FOV10/Behav_remap
+2022-11-16,RCK2,X,80,[1],Pyr,CKII,FOV13,500,True,FALSE,SD. response to remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-16-RCK2_X-S8/FOV13/behav
+2022-11-16,RCK2,X,74_cut_laser_drop,[5],Pyr,CKII,FOV4,500,False,TRUE,SD. VG. PF. cell with good longi,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-16-RCK2_X-S8/FOV4/behav_001
+2022-11-16,RCK2,X,76_cut_laser_drop,[2],Pyr,CKII,FOV21,500,False,TRUE,SD. PF  shifted backwards. VG. cool longi,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-16-RCK2_X-S8/FOV7/behav
+2022-11-16,RCK2,X,77_cut_laser_drop,"[1, 2, 3]",Pyr,CKII,FOV23,500,False,TRUE,SD. FS Pyrs.  pretty cool spatial activity,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-16-RCK2_X-S8/FOV10/behav_001
+2022-11-16,RCK2,X,75_cut_laser_drop,"[2, 3]",Pyr,CKII,FOV5,500,False,FALSE,SD. LEs,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-16-RCK2_X-S8/FOV5/behav_FOV5
+2022-11-16,RCK2,X,79_b_cut_laser_drop,[2],Pyr,CKII,FOV12,1000,False,TRUE,SD. amazing PF. VG,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-16-RCK2_X-S8/FOV12/behav_001
+2022-11-09,ACC3,L1R1,47_b_cut_laser_drop,[1],Pyr,Unknown,FOV1,500,False,TRUE,SD. cell 6 is ok but too much motion. 1 also kinda marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-11-09-ACC3_L1R1-S4/FOV1/Behavior-500hz
+2022-11-09,ACC3,L1R1,57_b,[2],IN_WT,Unknown,FOV14,500,True,FALSE,SD. some change in remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-11-09-ACC3_L1R1-S4/FOV14/behav-500hz
+2022-11-03,ACC3,L1R1,39,[2],IN_WT,Unknown,FOV2,500,False,FALSE,SD. some reduction in RZ,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-11-03-ACC3_L1R1-S3/FOV2/behav-500hz
+2022-11-03,ACC3,L1R1,32,"[1, 2]",Pyr,Unknown,FOV1,500,False,FALSE,SD. 1&2 PF.,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-11-03-ACC3_L1R1-S3/FOV1/Behavior-500hz
+2022-11-03,ACC3,L1R1,33_cut_laser_drop,"[2, 7]",Pyr,Unknown,FOV3,500,False,TRUE,SD. pretty marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-11-03-ACC3_L1R1-S3/FOV3/Behavior-500hz_001
+2022-11-03,ACC3,L1R1,34_cut_laser_drop,[8],Pyr,Unknown,FOV7,500,False,TRUE,"SD. PF.  Others cells are good, but the video is super noisy",Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-11-03-ACC3_L1R1-S3/FOV7/Behavior-500hz
+2022-11-02,RCK2,X,64_cut_laser_drop,"[2, 3]",Pyr,CKII,FOV5,500,False,FALSE,SD. LE in C3,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-02-RCK2_X-S7/FOV5/Behav
+2022-11-02,sACC2,R1,61_cut_laser_drop,[3],IN,Unknown,FOV1,500,False,TRUE,SD. 1 is marginal. not many laps,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-11-02-sACC2_R1-S8/FOV1/Behav
+2022-11-02,RCK2,X,66,[2],Pyr,CKII,FOV21,500,False,FALSE,SD. some spatial activity.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-02-RCK2_X-S7/FOV7/Behav
+2022-11-02,RCK2,X,65,"[2, 3]",Pyr,CKII,FOV22,500,False,FALSE,SD. LEs in both. but besides that kinda marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-02-RCK2_X-S7/FOV6/Behav_001
+2022-11-02,RCK2,X,61_cut_laser_drop,[7],Pyr,CKII,FOV2,500,False,FALSE,SD. LE. some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-02-RCK2_X-S7/FOV2/Behav_001
+2022-11-02,RCK2,X,63,[5],Pyr,CKII,FOV4,500,True,FALSE,SD.G. cahnging PF but few laps,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-11-02-RCK2_X-S7/FOV4/Behav_001
+2022-10-25,ACC3,L1R1,19,"[2, 6]",Pyr,Unknown,FOV7,500,False,FALSE,"SD. ALOT OF MOTION, 3&4 are marginal some PFs",Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-10-25-ACC3_L1R1-S2/FOV7/Behavior-500hz
+2022-10-25,ACC3,L1,32,"[2, 3, 4, 5, 7, 8]",Pyr,Unknown,FOV3,500,False,FALSE,VG.  nice PF in C4. disappearing PFs in others,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV3/Behav-500hz
+2022-10-25,ACC3,L1,30,"[1, 2, 3, 4, 6, 9]",Pyr,Unknown,S5_FOV2,500,False,FALSE, SD. cell 3&4 LE. 7 is marginal. for some reason i dont have cell 11 data,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/S5_FOV2/Behav-500hz
+2022-10-25,ACC3,L1R1,16,"[2, 3, 4, 6, 7]",Pyr,Unknown,FOV3,500,False,FALSE,SD.  5 is marginal. some PF in C3 & C6,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-10-25-ACC3_L1R1-S2/FOV3/Behavior-500hz
+2022-10-25,ACC3,L1,36_cut_laser_drop,[1],IN_WT,Unknown,FOV13,500,False,TRUE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV13/Behav-500hz_001
+2022-10-25,ACC3,L1,31,"[4, 10, 11]",Pyr,Unknown,FOV_6,500,False,FALSE,SD. C4&C10 some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV_6/Behav-500hz_001
+2022-10-25,ACC3,L1R1,22,"[1, 5]",Pyr,Unknown,FOV9,500,False,FALSE,"SD. 5 has great PF, 1 has 2 PFs?",Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-10-25-ACC3_L1R1-S2/FOV9/Behavior-500hz
+2022-10-25,ACC3,L1,35,"[1, 2, 3]",IN_WT,Unknown,FOV12,500,True,FALSE,SD. cool remapping in cells 1&2,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV12/Behav-500hz_001
+2022-10-25,ACC3,L1,33_cut_laser_drop,"[5, 6]",Pyr,Unknown,FOV5,500,False,TRUE,SD. some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV5/Behav-500hz_001
+2022-10-25,ACC3,L1,29,"[2, 7, 8]",Pyr,Unknown,FOV2,500,False,FALSE,SD. 4&5 is marginal. 7 also not great. some PF.,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV2/Behav-500hz_001
+2022-10-25,ACC3,L1,34_cut_laser_drop,"[1, 2]",IN_WT,Unknown,FOV8,500,True,TRUE,"SD. C2 has reduction in licks, could be speed could be motion",Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV8/Behav-500hz
+2022-10-25,ACC3,L1R1,18_cut_laser_drop,"[1, 2, 4, 9, 10, 11]",Pyr,Unknown,FOV6,500,False,TRUE,SD. best FOV ever. 4 PFs. VG!!!!!!!!!,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-10-25-ACC3_L1R1-S2/FOV6/Behavior-500hz_001
+2022-10-25,ACC3,L1,28,[3],Pyr,Unknown,FOV1,500,False,FALSE,SD,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-10-25-ACC3_L1-S6/FOV1/Behav-500hz
+2022-10-25,ACC3,L1R1,13,"[1, 2]",Pyr,Unknown,FOV1,500,False,FALSE,"SD. VG. 1&2 great PFs, 4&5 marigna;",Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-10-25-ACC3_L1R1-S2/FOV1/Behavior-500hz
+2022-10-25,ACC3,L1R1,15_cut_laser_drop,[2],IN_WT,Unknown,FOV2,500,False,TRUE,SD. prefers 1st half,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1R1/2022-10-25-ACC3_L1R1-S2/FOV2/Behavior-500hz_001
+2022-10-24,sACC2,R1,48,"[1, 3]",IN,Unknown,FOV1,500,False,FALSE,SD.pretty marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-10-24-sACC2_R1-S7/FOV1/Behav-red35-500hz_better_focus
+2022-10-24,RCK2,X,56,"[1, 2]",Pyr,CKII,FOV21,500,False,FALSE,SD. some PF but not many laps. C1 has LE.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV7/Behav_red16_001
+2022-10-24,RCK2,X,54,"[1,3]",Pyr,CKII,FOV5,500,False,FALSE,SD. C1&3 have some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV5/Behav_red14
+2022-10-24,RCK2,X,51_cut_laser_drop,[7],Pyr,CKII,FOV2,500,True,TRUE,"SD. VG.Great Example of nice event before RZ, only in accurate laps",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV2/Behav_red20
+2022-10-24,sACC2,R1,47_cut_laser_drop,"[1, 3]",IN,Unknown,FOV1,500,False,TRUE,SD. ,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-10-24-sACC2_R1-S7/FOV1/Behav-red35-500hz
+2022-10-24,RCK2,X,52,"[1, 2, 4, 6]",Pyr,CKII,FOV3,500,True,FALSE,SD. sparse firing,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV3/Behav_red15
+2022-10-24,RCK2,X,53,[5],Pyr,CKII,FOV4,500,True,FALSE,SD. VG. changing PF in remapping,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV4/Behav_red20
+2022-10-24,RCK2,X,48_a_cut_laser_drop,"[3, 4]",Pyr,CKII,S6_FOV1,500,False,TRUE,"SD. C3 LE, C4 some PF",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV1/Behavt-red18_000
+2022-10-24,sACC2,R1,51_cut_laser_drop,"[2, 5]",IN,Unknown,FOV7,500,True,TRUE,SD.C2 is pretty marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-10-24-sACC2_R1-S7/FOV7/Behav-red25-500hz
+2022-10-24,RCK2,X,55,[2],Pyr,CKII,FOV22,500,False,FALSE,SD. LE. some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-10-24-RCK2_X-S6/FOV6/Behav_red16
+2022-10-03,sACC2,R1,40_a,"[2, 5]",IN,Unknown,FOV7,1000,True,FALSE,SD. G. Really nice!!!!! perhaps something spatial?,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-10-03-sACC3_R1-S6/FOV7/Behavior-1khz
+2022-10-03,sACC2,R1,36,"[1, 2,3]",IN,Unknown,FOV1,500,True,FALSE,SD. 4&6 - marginal. have doubts about 3. G,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-10-03-sACC3_R1-S6/FOV1/Behav-1.5f-1
+2022-09-29,ACC3,L1,20_cut_laser_drop,"[1, 4, 5, 8, 9]",Pyr,Unknown,FOV_1,500,False,TRUE,SD. G. 4 has PF. 9 also maybe. 8 is marginal with PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-29-ACC3_L1-S5/FOV_1/Behav-red25-500hz
+2022-09-29,ACC3,L1,23_cut_laser_drop,"[4, 6,10]",Pyr,Unknown,FOV2,500,True,TRUE,SD. C10 is the best cell ever in remapping. VG. cells 7 & 2 are marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-29-ACC3_L1-S5/FOV2/Behav-red25-500hz
+2022-09-29,RCK2,X,40,[3],Pyr,CKII,FOV_6,500,False,FALSE,SD. LE,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_6/behav-red27-500hz
+2022-09-29,ACC3,L1,24_cut_laser_drop,[2],IN_WT,Unknown,FOV3,500,True,TRUE,SD. some reduction in Rz.,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-29-ACC3_L1-S5/FOV3/Behav-red10-500hz
+2022-09-29,RCK2,X,42,[1],Pyr,CKII,FOV_8,500,False,FALSE,SD. G. PF? ,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_8/behav-red12-500hz
+2022-09-29,RCK2,X,39,"[2, 4]",Pyr,CKII,FOV_5,500,False,FALSE,SD. LEs,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_5/behav-red12-500hz
+2022-09-29,RCK2,X,43,"[1, 2]",Pyr,CKII,FOV_9,500,False,FALSE,"SD. VG. cells 1,2 both have PF. cell 3 had demixing problem!!but his signal is great",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_9/behav-red12-500hz
+2022-09-29,RCK2,X,37,[5],Pyr,CKII,FOV_3,500,False,FALSE,SD. cell 5 has great signal - interesting complex & simple spikes. nothing spatial,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_3/behav-red22-500hz-sup
+2022-09-29,RCK2,X,35_cut_laser_drop,[5],Pyr,CKII,FOV1,500,False,TRUE,SD. G. Cell numbers uncalibrated. some PF at start,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_1/behav-red25-500hz
+2022-09-29,RCK2,X,45,"[1, 2, 3]",Pyr,CKII,FOV23,1000,False,FALSE,SD. G. Amazing signal in 2&3. very little behavior,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_12/behav-red12-500hz
+2022-09-29,ACC3,L1,21,"[1, 4, 6]",Pyr,Unknown,FOV6,500,False,FALSE,SD. cell 4 has amazing PF. VG!!!!,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-29-ACC3_L1-S5/FOV6/Behav-red25-500hz
+2022-09-29,RCK2,X,36,"[2, 4]",Pyr,CKII,FOV_2,500,False,FALSE,SD. very sparse firing. cell numbers not organized,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_2/behav-red20-500hz
+2022-09-29,RCK2,X,41_cut_laser_drop,"[1, 2, 3]",Pyr,CKII,FOV7,1000,False,TRUE,SD. VG. 2 late place field? not alot of behavior,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-29-RCK2_X-S5/FOV_7/behav-red12-1000hz
+2022-09-15,ACC3,L1,13,"[1, 2]",IN_WT,Unknown,FOV8,500,False,FALSE,SD.VG. cell 1 actually looks like 2 cells. C2 hsa reduction in RZ,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-15-ACC3_L1-S4/FOV8/Behav-red26-500hz_001
+2022-09-15,ACC3,L1,15_a_cut_laser_drop,[6],Pyr,Unknown,FOV5,500,False,TRUE,SD. good PF. maybe even 2.,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-15-ACC3_L1-S4/FOV5/Behav-red26-500hz
+2022-09-15,ACC3,L1,17,"[1,3]",IN_WT,Unknown,FOV10,500,False,FALSE,SD.inhibition looks syncd sometimes. cell 1 has alot of motion.,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-15-ACC3_L1-S4/FOV10/Behav-red15-500hz
+2022-09-15,ACC3,L1,18,"[1,3]",IN_WT,Unknown,FOV10,500,False,FALSE,SD. cell 1 fires differently? C2 is marginal.,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-15-ACC3_L1-S4/FOV10/Behav-red15-500hz-sup_000
+2022-09-14,RCK2,X,28,"[3, 4, 5]",Pyr,CKII,FOV10_new,500,False,FALSE,SD.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV10_new/behav-red25-500hz
+2022-09-14,RCK2,X,29,[1],Pyr,CKII,FOV11,500,False,FALSE,SD. G. C1 fires all the time. cells 3&4 signal is marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV11/behav-red17-500hz_000
+2022-09-14,RCK2,X,32,[3],Pyr,CKII,FOV14,500,False,FALSE,SD. G.cell 3 fires alot. some reduction before RZ,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV14/behav-red13-500hz
+2022-09-14,RCK2,X,33,"[2, 3]",Pyr,CKII,FOV14,500,False,FALSE,SD. G. C# nice signal. same FOV as 32.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV14/behav-red13-500hz-2nd
+2022-09-14,RCK2,X,22_cut_laser_drop,"[4, 9]",Pyr,CKII,FOV2_old,500,False,TRUE,SD. VG. 4 (PF?). compare cell numbers with #36 & with FOV2_new,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV2/behav-red21-500hz
+2022-09-14,RCK2,X,23,"[1, 5]",Pyr,CKII,FOV4_old,500,False,FALSE,SD.C1 traveling burst,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV4/behav-red21-500hz_001
+2022-09-14,RCK2,X,27,"[1, 3, 2]",Pyr,CKII,FOV8_new,500,False,FALSE,SD. G. 2 PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV8_new/behav-red21-500hz
+2022-09-14,RCK2,X,21,"[5, 8]",Pyr,CKII,FOV1,500,False,FALSE,SD.5 some PF at start. 8 fires sparsely.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV1/behav-red24-500hz
+2022-09-14,RCK2,X,24_cut_laser_drop,"[1, 4]",Pyr,CKII,FOV5_old,500,False,TRUE,SD. G. maybe interesting pattern in cell 1,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV5_new/behav-red21-500hz
+2022-09-14,RCK2,X,25_cut_laser_drop,[7],Pyr,CKII,FOV6,500,False,TRUE,SD.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-09-14-RCK2_X-S4/FOV6/behav-red21-500hz
+2022-09-13,sACC2,R1,32,"[1, 2, 4, 5, 7]",IN,Unknown,FOV6,500,True,FALSE,"SD. this FOV might be too marginal (4 min, not great SNR)",Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-09-13-Sacc2_R1-S5/FOV6/Behav-red40-500hz
+2022-09-01,ACC3,L1,6,[6],Pyr,Unknown,FOV4,500,False,TRUE,SD.has laser drop but its ok,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-01-ACC3_L1-S3/FOV4/behav-red14-500hz
+2022-09-01,ACC3,L1,5,"[1, 3, 5]",Pyr,Unknown,FOV3,500,False,FALSE,SD. G. cell 1 maybe has some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/ACC3/L1/2022-09-01-ACC3_L1-S3/FOV3/behav-red12-500hz
+2022-08-30,RCK2,X,2,"[1, 3, 4]",Pyr,CKII,FOV1,500,False,FALSE,SD. VG. cell # uncalibrated. C1 PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV1/Behav-red17-500hz
+2022-08-30,RCK2,X,13_b,"[1, 3]",Pyr,CKII,FOV9,500,False,TRUE,C3 has BSD,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV9/Behav-red12-500hz
+2022-08-30,RCK2,X,3,"[1,2, 4]",Pyr,CKII,FOV2_old,500,False,FALSE,"SD. G - cell 4 PF, also cell 1 maybe",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV2/Behav-red10-500hz
+2022-08-30,RCK2,X,15,"[1, 2, 3, 6]",Pyr,CKII,FOV10,500,False,FALSE,"SD. G.cell 1 fires all the time. cell 3 wird complex, cell 2 both wide & narrow complex,cell 6 fires all the time ",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV10/Behav-red20-500hz
+2022-08-30,RCK2,X,16,[1],Pyr,CKII,FOV11,500,False,FALSE,"SD. G. cell 1 has amazing signal, but fires ALOT",Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV11/behav-red17-500hz
+2022-08-30,RCK2,X,8,"[1, 4]",Pyr,CKII,FOV6,500,False,FALSE,SD. G. cell 4 PF. cell 6 has good signal but weird complex spikes. cell 3 also many weird complex spikes.,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV6/Behav-red20-500hz
+2022-08-30,RCK2,X,4_a_cut_laser_drop,[3],Pyr,CKII,FOV3,500,False,TRUE,SD. nice PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV3/Behav-red13-500hz
+2022-08-30,RCK2,X,11_cut_laser_drop,"[1, 5]",Pyr,CKII,FOV8,500,False,FALSE,SD. weird plateaus. ,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV8/Behav-red22-500hz-sup
+2022-08-30,RCK2,X,5,[3],Pyr,CKII,FOV4_old,500,False,FALSE,SD. G.cell 3 nice signal! maybe forming a PF?,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV4/Behav-red23-500hz
+2022-08-30,RCK2,X,7_cut_laser_drop,"[2, 3]",Pyr,CKII,FOV5_orig,500,False,TRUE,SD. some PF,Z:/Adam-Lab-Shared/Data/Imaging_Data/RCK2/X/2022-08-30-RCK2_X-S3/FOV5/Behav-red8-500hz
+2022-08-29,sACC2,R1,21_cut_laser_drop,"[2, 6]",IN,Unknown,FOV1,500,False,TRUE,"SD. 1,3,5 is marginal",Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-29-sACC2_R1-S4/FOV1/Behav-red40-500hz
+2022-08-29,sACC2,R1,26,[1],IN,Unknown,FOV9,500,False,FALSE,SD. Marginal;,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-29-sACC2_R1-S4/FOV9/Behav-red44-500hz
+2022-08-29,sACC2,R1,23,"[1, 5]",IN,Unknown,FOV6,500,False,FALSE,SD. 2 is marginal. 5 also not great,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-29-sACC2_R1-S4/FOV6/Behav-red40-500hz_001
+2022-08-25,sACC2,R1,9,[3],IN,Unknown,FOV1,500,False,FALSE,SD. 2&6 are not amazing,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-25-sACC2_R1-S3/FOV1/Behav-red40-500hz_000
+2022-08-25,sACC2,R1,15_cut_laser_drop,[2],IN,Unknown,FOV7,1000,False,TRUE,SD. a lot of motion,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-25-sACC2_R1-S3/FOV7/Behav-red25-500hz_001
+2022-08-25,sACC2,R1,13_cut_laser_drop,"[1, 2]",IN,Unknown,FOV6,500,False,TRUE,"SD. cells 5,7 are marginal. cell 2 also not great",Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-25-sACC2_R1-S3/FOV6/behav-red50-500hz
+2022-08-22,sACC2,R1,3,"[2, 3]",IN,Unknown,FOV1,500,False,FALSE,SD. 1&5 are marginal.,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-22-sACC2_R1-S2/FOV1/Behavior-red40
+2022-08-22,sACC2,R1,6,"[2, 3]",IN,Unknown,FOV5,1000,False,FALSE,SD. C2 has reduction in RZ. cell 3 is marginal,Z:/Adam-Lab-Shared/Data/Imaging_Data/sACC2/R1/2022-08-22-sACC2_R1-S2/FOV5/behav-red26-1000hz
